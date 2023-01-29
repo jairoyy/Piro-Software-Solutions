@@ -1,3 +1,7 @@
+alert("Hello Guys");
+alert("Welcome You All");
+
+
 (function ($) {
     "use strict";
 
